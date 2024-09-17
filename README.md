@@ -2,7 +2,7 @@
 
 <img src="https://media.baamboozle.com/uploads/images/360335/1662740725_406404_gif-url.gif" width="300px" height="auto" align="right">
 
-<p align="left">Hello everyone👋🏽, my name is Pedro, nowadays I am a <strong>👨🏽‍💻Full-Stack Developer👨🏽‍💻</strong> with the objective of learning and improving my skills each day.</p>
+<p align="left">Hello everyone👋🏽, my name is Pedro, nowadays I am a <strong>👨🏽‍💻Back-End Developer👨🏽‍💻</strong> with the objective of learning and improving my skills each day.</p>
 
 I am:
 
