@@ -1,6 +1,6 @@
 # <img src="https://cdn3.emoji.gg/emojis/66957-d20.png" width="55px"> Pedro Cunha <img src="https://cdn3.emoji.gg/emojis/66957-d20.png" width="55px">
 
-<img src="https://media.baamboozle.com/uploads/images/360335/1662740725_406404_gif-url.gif" width="300px" height="auto" align="right">
+<img src="https://github.com/PedroTCunha/PedroTCunha/blob/main/dice-gif.gif" width="300px" height="auto" align="right">
 
 <p align="left">Hello everyone👋🏽, my name is Pedro, nowadays I am a <strong>👨🏽‍💻Back-End Developer👨🏽‍💻</strong> with the objective of learning and improving my skills each day.</p>
 
