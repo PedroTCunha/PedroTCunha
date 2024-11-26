@@ -21,8 +21,7 @@ I am:
 
 <div>
   &nbsp;&nbsp;&nbsp;
- &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="html5" alt="HTML5" width="40" height="40"/>&nbsp;
- &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="css3" alt="CSS3" width="40" height="40"/>&nbsp;
+ &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="js" alt="JavaScript" width="40" height="40"/>&nbsp;
  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" alt="Python" width="40" height="40"/>&nbsp;
  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="mysql" alt="MySQL" width="40" height="40"/>&nbsp;
